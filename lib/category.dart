@@ -4,7 +4,6 @@ import 'package:fastinationapp/Orders.dart';
 import 'package:fastinationapp/data.dart';
 import 'package:fastinationapp/favourites.dart';
 import 'package:fastinationapp/Page.dart' as page1;
-import 'package:fastinationapp/page.dart' as page2;
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:line_icons/line_icons.dart';
